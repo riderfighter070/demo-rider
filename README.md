@@ -1,4 +1,4 @@
 # demo-rider
-Demo repository for git
+First Demo repository for git.
 <Br>
 Author = Rider Fighter
